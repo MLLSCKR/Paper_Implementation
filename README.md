@@ -12,7 +12,7 @@
 
 > #### GAN
 > > ##### DCGAN
-> > > Paper: Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks
+> > > * Paper: Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks
 > > >     https://arxiv.org/abs/1511.06434
-> > > Review: ㅁㅇㄴㄹ
-> > > Code: ㅁㅇㄻㅇㄴㄹ
+> > > * Review: ㅁㅇㄴㄹ
+> > > * Code: ㅁㅇㄻㅇㄴㄹ
